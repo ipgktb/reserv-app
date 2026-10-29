@@ -110,7 +110,7 @@ export const metadata: Metadata = {
     follow: false,
     nocache: true,
   },
-  title: "Tempahan Bilik | IPGKTB",
+  title: "MAKMAL ICT | IPGKTB",
   description:
     "Tempah bilik pembelajaran, makmal dan kemudahan di IPGKTB dengan mudah. Pilih bilik, tarikh dan slot masa yang tersedia secara dalam talian.",
 };
